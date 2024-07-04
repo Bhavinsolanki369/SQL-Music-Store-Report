@@ -1,5 +1,5 @@
 # SQL-Music-Store-Report
-There is a multitable database and set of 11 business questions. I have solved these questions using postgreSQL.
+There is a multi-table database and set of 11 business questions. I have solved these questions using postgreSQL.
 1. USA, Canada and Brazil are Top purchasing countries with
      131, 76 and 61 total purchases, respectively.
 
